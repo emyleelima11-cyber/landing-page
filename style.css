@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 40px;
+}
+
+img {
+  border-radius: 10px;
+}
